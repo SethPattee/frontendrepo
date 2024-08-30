@@ -1,4 +1,4 @@
-import React from 'react';
+//import React from 'react';
 import './LoveMessage.css'; // We'll add some custom styles here
 
 const LoveMessage = () => {
